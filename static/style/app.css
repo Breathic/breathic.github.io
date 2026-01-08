@@ -137,13 +137,12 @@ body {
   position: absolute;
   top: 0;
   right: 0;
-  width: 120px;
-  height: 36px;
+  width: 32px;
+  height: 32px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 32px;
-  background-color: white;
   background-image: url('/static/img/github-logo.svg');
   cursor: pointer;
 }
