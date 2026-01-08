@@ -133,7 +133,7 @@ body {
   position: relative;
 }
 
-.available-on-the-app-store-logo {
+.github-logo {
   position: absolute;
   top: 0;
   right: 0;
@@ -144,7 +144,7 @@ body {
   background-position: center;
   border-radius: 32px;
   background-color: white;
-  background-image: url('/static/img/available-on-the-app-store-logo.png');
+  background-image: url('/static/img/github-logo.svg');
   cursor: pointer;
 }
 
